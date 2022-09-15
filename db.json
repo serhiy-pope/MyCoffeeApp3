@@ -1,3 +1,10 @@
 {
-  "MyCoffeeApp3": [{"id": 1,"roaster": "Burlesque","name": "Fkin-Delicious","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Closeup_of_Coffee_Beans.jpg/320px-Closeup_of_Coffee_Beans.jpg"}]
+  "posts": [
+    {
+      "id": 1,
+      "roaster": "Burlesque",
+      "name": "Fkin-Delicious",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Closeup_of_Coffee_Beans.jpg/320px-Closeup_of_Coffee_Beans.jpg"
+    }
+  ]
 }
