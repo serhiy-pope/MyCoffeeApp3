@@ -17,6 +17,12 @@
       "roaster":"PewPew",
       "name":"Madafakas",
       "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Closeup_of_Coffee_Beans.jpg/320px-Closeup_of_Coffee_Beans.jpg"
+    },
+    {
+      "id":"3",
+      "roaster":"Burlesque",
+      "name":"Delicious",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Closeup_of_Coffee_Beans.jpg/320px-Closeup_of_Coffee_Beans.jpg"
     }
   ]
 }
