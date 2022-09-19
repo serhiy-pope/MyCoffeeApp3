@@ -1,26 +1,28 @@
-[
-    {
-      "id":"0",
-      "roaster":"PewPew",
-      "name":"Madafakas",
-      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Closeup_of_Coffee_Beans.jpg/320px-Closeup_of_Coffee_Beans.jpg"
-    },
-    {
-      "id":"1",
-      "roaster":"PewPew",
-      "name":"Madafakas",
-      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Closeup_of_Coffee_Beans.jpg/320px-Closeup_of_Coffee_Beans.jpg"
-    },
-    {
-      "id":"2",
-      "roaster":"PewPew",
-      "name":"Madafakas",
-      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Closeup_of_Coffee_Beans.jpg/320px-Closeup_of_Coffee_Beans.jpg"
-    },
-    {
-      "id":"3",
-      "roaster":"Burlesque",
-      "name":"Delicious",
-      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Closeup_of_Coffee_Beans.jpg/320px-Closeup_of_Coffee_Beans.jpg"
-    }
-]
+{
+    [
+        {
+          "id":"0",
+          "roaster":"PewPew",
+          "name":"Madafakas",
+          "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Closeup_of_Coffee_Beans.jpg/320px-Closeup_of_Coffee_Beans.jpg"
+        },
+        {
+          "id":"1",
+          "roaster":"PewPew",
+          "name":"Madafakas",
+          "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Closeup_of_Coffee_Beans.jpg/320px-Closeup_of_Coffee_Beans.jpg"
+        },
+        {
+          "id":"2",
+          "roaster":"PewPew",
+          "name":"Madafakas",
+          "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Closeup_of_Coffee_Beans.jpg/320px-Closeup_of_Coffee_Beans.jpg"
+        },
+        {
+          "id":"3",
+          "roaster":"Burlesque",
+          "name":"Delicious",
+          "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Closeup_of_Coffee_Beans.jpg/320px-Closeup_of_Coffee_Beans.jpg"
+        }
+    ]
+}
